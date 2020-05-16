@@ -1,0 +1,71 @@
+body{
+	width:100%;
+	background:url(background.png);
+}
+.container{
+	width:400px;
+	height:600px;
+	background:black;
+	border-radius:20px;
+	position:relative;
+	top:40px
+}
+img{
+	
+	position:relative;
+	left:100px;
+
+}
+
+h1{
+	font-size:25px;
+	color:white;
+	font-family: 'Noto Sans JP', sans-serif;
+	position:relative;
+	left:68px;
+}
+h1:hover{
+	color:lightgreen;
+	cursor: not-allowed;
+}
+h2{
+	font-size:20px;
+	color:white;
+	font-family: 'Roboto Slab', serif;
+
+}
+input{
+	font-size:20px;
+	color:white;
+	font-family: 'Roboto Slab', serif;
+	color:black;
+	background:lightgrey;
+	position:relative;
+	border-radius: 5px;
+
+}
+
+.btn-success{
+	position:relative;
+	top:140px;
+	width:200px;
+	left:80px;
+
+}
+.btn-success:hover{
+	background:blue;
+	color:white;
+
+
+}
+.btn-danger:hover{
+	background:blue;
+	color:white;
+
+}
+
+.btn-danger{
+	position:relative;
+	top:220px;
+	right:70px;
+}

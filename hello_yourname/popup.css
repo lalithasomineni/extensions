@@ -1,0 +1,13 @@
+body{
+	background:black;
+}
+h2{
+	color:blue;
+	font-family: monospace;
+	font-size:20px;
+	font-weight:bolder;
+}
+input{
+	background:skyblue;
+	color:white;
+}
